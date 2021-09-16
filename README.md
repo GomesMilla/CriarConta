@@ -1,4 +1,4 @@
-<h1 align="center">FLOWERS</h1>
+<h1 align="center">Criar Conta</h1>
 <p>Criar um template de criação de conta para promover o aprendizado no HTML e CSS puro e principalmente entender como trabalhar com a responsividade. </p>
 <h4 align="center"> 
 	🚧  Status 🚀 Refatorando o código  🚧
