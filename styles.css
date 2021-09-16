@@ -16,7 +16,7 @@ body{
     display: flex;
     min-height: 100%;
     overflow: hidden;
-    margin-top: 3%;
+    margin-top: 1%;
 }
 
 main{
@@ -113,7 +113,7 @@ main input{
 main form input[type = "submit"]{
     background-color: #fffdfd;
     color: rgb(12, 12, 12);
-    margin-top: 8%;
+    margin-top: 6%;
     width: 50%;
     height: 49px;
     border-radius: 32px;
