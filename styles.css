@@ -16,7 +16,8 @@ body{
     display: flex;
     min-height: 100%;
     overflow: hidden;
-    margin-top: 1%;
+    margin-top: 2%;
+    min-width: 100%;
 }
 
 main{
@@ -25,13 +26,15 @@ main{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    /* padding: 2rem 4rem; */
 }
 
 main h1{
     color: #1d222b;
     font-size: 3rem;
-    margin-top: 3%;
+    margin-top: 0;
     margin-bottom: 3%;
+    margin-top: -10%;
 }
 
 main .alternative{
@@ -127,18 +130,17 @@ main form input[type = "submit"]:hover{
 }
 
 section.images {
+    width: 50%;
     display: flex;
     align-items: flex-end;
-    margin-top: 6%;
-
+    justify-content: flex-end;
 }
 
 section.images img{
     height: 80%;
-    width: 90%;
-    position:absolute;
-    top: 15%;
-    left: 35%;
+    width: 100%;
+    padding: 1%;
+    margin-top: 6%;
 }
 
 section.images .circle{
@@ -148,9 +150,79 @@ section.images .circle{
     top: 0;
     left: 0;
     background-color: #6C63FF;
-    clip-path: circle(80% at right 150%);
+    clip-path: circle(70% at right 135%);
     z-index: -1;
 }
+
+@media only screen and (min-width: 156px) and (max-width:776px){
+    section.images{
+        display: none;
+        visibility: hidden;
+    } 
+    main{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 5rem 10.5rem;
+    }
+    main .social-media{
+        display: flex;
+        align-content: center;
+        margin-top: 4%;
+        margin-bottom: 2%;
+    }
+    main form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 5%;
+    }
+}
+@media only screen and (min-width: 776px) and (max-width:969px){
+    main h1{
+        color: #1d222b;
+        font-size: 3rem;
+        margin-top: 5vh;
+        margin-bottom: 3%;
+    }
+    section.images img{
+        height: 100%;
+        width: 100%;
+        padding: 1%;
+        margin-bottom: -50%;
+    }
+}
+@media only screen and (min-width: 970px) and (max-width:1446px){
+    main h1{
+        color: #1d222b;
+        font-size: 3rem;
+        margin-top: 5vh;
+        margin-bottom: 3%;
+    }
+    section.images img{
+        height: 100%;
+        width: 100%;
+        padding: 1%;
+        margin-bottom: -26%;
+    }
+}
+@media only screen and (min-width: 1294px) and (max-width:1446px){
+    main h1{
+        color: #1d222b;
+        font-size: 3rem;
+        margin-top: 5vh;
+        margin-bottom: 3%;
+    }
+    section.images img{
+        height: 100%;
+        width: 100%;
+        padding: 1%;
+        margin-bottom: -10%;
+    }
+}
+
 
 
 /* palevioletred cor bonita */
