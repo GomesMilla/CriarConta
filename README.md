@@ -28,11 +28,11 @@ Este é um projeto totalmente grátis!
   <img alt="Imagem de inicio" title="#INICIO" src="imagens/Mobile.png" />
 </h1>
 
-<!-- ### 🛠 Tecnologias
+### 🛠 Tecnologias
 <p>As seguintes ferramentas foram usadas na construção do template:</p>
 
-
-- [Materialize](https://materializecss.com/) -->
+-[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white]
+- [Materialize](https://materializecss.com/)
 
 
 
