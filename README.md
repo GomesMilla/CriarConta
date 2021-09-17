@@ -5,7 +5,7 @@
 </h4>
 
 <h1 align="center">
-  <img alt="Imagem de inicio" title="#INICIO" src="imagens/CapaReadme.png" />
+  <img alt="Imagem de inicio" title="#INICIO" src="imagens/Maiores.png" />
 </h1>
 <p text-align="justify">Criar um template de criação de conta para promover o aprendizado no HTML e CSS puro e principalmente entender como trabalhar com a responsividade.</p>
 <p text-align="justify">Este projeto faz parte do meu portfólio pessoal, então, ficarei feliz caso você forneça algum feedback, código, estrutura, funcionalidade ou qualquer melhoria que você possa relatar para melhora-lo.Você pode usar este projeto como quiser, seja para estudar, fazer melhorias, você quem manda!.</p>
@@ -14,6 +14,19 @@
 Este é um projeto totalmente grátis!
 </blockquote>
 
+<h4 align="center"> 
+	🚀 Projeto Final
+</h4>
+
+<h1 align="center">
+  <img alt="Imagem de inicio" title="#INICIO" src="imagens/Maiores.png" />
+</h1>
+<h1 align="center">
+  <img alt="Imagem de inicio" title="#INICIO" src="imagens/Tablet.png" />
+</h1>
+<h1 align="center">
+  <img alt="Imagem de inicio" title="#INICIO" src="imagens/Mobile.png" />
+</h1>
 
 <!-- ### 🛠 Tecnologias
 <p>As seguintes ferramentas foram usadas na construção do template:</p>
