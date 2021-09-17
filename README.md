@@ -28,8 +28,6 @@ Este é um projeto totalmente grátis!
   <img alt="Imagem de inicio" title="#INICIO" src="imagens/Mobile.png" />
 </h1>
 
-### 🛠 Tecnologias
-<p>As seguintes ferramentas foram usadas na construção do template:</p>
 
 ## 👩‍💻 Technologies & Tools
 <p>As seguintes ferramentas foram usadas na construção do template:</p>
